@@ -6,7 +6,8 @@
   align-items: center;
   justify-content: center;
   justify-self: center;
-  margin: 4em;
+  margin-left: 4em;
+  margin-right: 4em;
   background-color: rgb(214, 214, 214);
   border-radius: 5px;
   text-align: center;
@@ -66,6 +67,19 @@ h1 {
 }
 
 .corn {
-  height: 250px;
+  height: 300px;
   align-self: center;
+}
+
+.top {
+  margin-top: 2em;
+}
+
+.form {
+  width: 50%;
+  align-self: center;
+  border-radius: 5px;
+  border: 1px solid aqua;
+  align-items: center;
+  justify-content: center;
 }
